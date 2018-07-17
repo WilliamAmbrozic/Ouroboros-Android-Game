@@ -1,2 +1,3 @@
 # Ouroboros-Android-Game
-[linkname](https://youtu.be/EMU1n3Dfgg0)
+Download the game on the Google Play Store
+[linkname](https://play.google.com/store/apps/details?id=com.game.willouroboros&hl=en)
