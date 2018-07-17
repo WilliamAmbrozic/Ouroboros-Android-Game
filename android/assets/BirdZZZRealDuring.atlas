@@ -1,0 +1,26 @@
+
+BirdZZZRealDuring.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BirdCage-04
+  rotate: false
+  xy: 1, 487
+  size: 400, 484
+  orig: 400, 484
+  offset: 0, 0
+  index: -1
+BirdCage-05
+  rotate: false
+  xy: 1, 1
+  size: 400, 484
+  orig: 400, 484
+  offset: 0, 0
+  index: -1
+BirdCage-06
+  rotate: false
+  xy: 403, 487
+  size: 400, 484
+  orig: 400, 484
+  offset: 0, 0
+  index: -1

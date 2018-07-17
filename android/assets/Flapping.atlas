@@ -1,0 +1,123 @@
+Flapping.atlas-0.png
+size: 1880, 1833
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dove-1
+  rotate: false
+  xy: 1, 1
+  size: 938, 691
+  orig: 1200, 1200
+  offset: 131, 254
+  index: -1
+Dove-16
+  rotate: false
+  xy: 1, 1
+  size: 938, 691
+  orig: 1200, 1200
+  offset: 131, 254
+  index: -1
+Untitled-2
+  rotate: false
+  xy: 941, 1
+  size: 938, 637
+  orig: 1200, 1200
+  offset: 132, 281
+  index: -1
+Untitled-3
+  rotate: false
+  xy: 941, 640
+  size: 938, 595
+  orig: 1200, 1200
+  offset: 132, 302
+  index: -1
+Untitled-4
+  rotate: false
+  xy: 1, 694
+  size: 938, 577
+  orig: 1200, 1200
+  offset: 131, 331
+  index: -1
+Untitled-5
+  rotate: false
+  xy: 941, 1237
+  size: 917, 560
+  orig: 1200, 1200
+  offset: 142, 320
+  index: -1
+Untitled-6
+  rotate: false
+  xy: 1, 1273
+  size: 887, 559
+  orig: 1200, 1200
+  offset: 157, 320
+  index: -1
+Untitled-11
+  rotate: false
+  xy: 1, 1273
+  size: 887, 559
+  orig: 1200, 1200
+  offset: 157, 320
+  index: -1
+Untitled-12
+  rotate: false
+  xy: 941, 1237
+  size: 917, 560
+  orig: 1200, 1200
+  offset: 142, 320
+  index: -1
+Untitled-13
+  rotate: false
+  xy: 1, 694
+  size: 938, 577
+  orig: 1200, 1200
+  offset: 131, 331
+  index: -1
+Untitled-14
+  rotate: false
+  xy: 941, 640
+  size: 938, 595
+  orig: 1200, 1200
+  offset: 132, 302
+  index: -1
+Untitled-15
+  rotate: false
+  xy: 941, 1
+  size: 938, 637
+  orig: 1200, 1200
+  offset: 132, 281
+  index: -1
+
+Flapping.atlas-1.png
+size: 1670, 559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Untitled-7
+  rotate: false
+  xy: 1, 1
+  size: 852, 557
+  orig: 1200, 1200
+  offset: 175, 321
+  index: -1
+Untitled-8
+  rotate: false
+  xy: 855, 1
+  size: 814, 554
+  orig: 1200, 1200
+  offset: 193, 323
+  index: -1
+Untitled-9
+  rotate: false
+  xy: 855, 1
+  size: 814, 554
+  orig: 1200, 1200
+  offset: 193, 323
+  index: -1
+Untitled-10
+  rotate: false
+  xy: 1, 1
+  size: 852, 557
+  orig: 1200, 1200
+  offset: 175, 321
+  index: -1

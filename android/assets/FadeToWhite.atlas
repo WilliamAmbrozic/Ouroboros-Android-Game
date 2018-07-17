@@ -1,0 +1,108 @@
+
+FadeToWhite.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+F1
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+FadeToWhite2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+F2
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+FadeToWhite3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+F3
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+FadeToWhite4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+F4
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+FadeToWhite5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+F5
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+FadeToWhite6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+F6
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+FadeToWhite7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+F7
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+FadeToWhite8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+F8
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+FadeToWhite9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+F9
+  rotate: false
+  xy: 1, 1
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1

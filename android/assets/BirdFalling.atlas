@@ -1,0 +1,36 @@
+
+BirdFalling.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FallingBird-01
+  rotate: false
+  xy: 1, 1
+  size: 688, 512
+  orig: 688, 512
+  offset: 0, 0
+  index: -1
+
+BirdFalling2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FallingBird-02
+  rotate: false
+  xy: 1, 1
+  size: 688, 512
+  orig: 688, 512
+  offset: 0, 0
+  index: -1
+
+BirdFalling3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FallingBird-03
+  rotate: false
+  xy: 1, 1
+  size: 688, 512
+  orig: 688, 512
+  offset: 0, 0
+  index: -1

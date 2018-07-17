@@ -1,0 +1,209 @@
+
+BirdEscape.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BirdCage-01
+  rotate: false
+  xy: 1, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+BirdCage-02
+  rotate: false
+  xy: 403, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+
+BirdEscape2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BirdCage-03
+  rotate: false
+  xy: 1, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+BirdCage-04
+  rotate: false
+  xy: 403, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+
+BirdEscape3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BirdCage-05
+  rotate: false
+  xy: 1, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+BirdCage-06
+  rotate: false
+  xy: 403, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+
+BirdEscape4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BirdCage-07
+  rotate: false
+  xy: 1, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+BirdCage-08
+  rotate: false
+  xy: 403, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+
+BirdEscape5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BirdCage-10
+  rotate: false
+  xy: 1, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+BirdCage-11
+  rotate: false
+  xy: 403, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+
+BirdEscape6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BirdCage-12
+  rotate: false
+  xy: 1, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+BirdCage-13
+  rotate: false
+  xy: 403, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+
+BirdEscape7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BirdCage-14
+  rotate: false
+  xy: 1, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+BirdCage-16
+  rotate: false
+  xy: 403, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+
+BirdEscape8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BirdCage-17
+  rotate: false
+  xy: 1, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+BirdCage-18
+  rotate: false
+  xy: 403, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+
+BirdEscape9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BirdCage-19
+  rotate: false
+  xy: 1, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+BirdCage-20
+  rotate: false
+  xy: 403, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+
+BirdEscape10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BirdCage-21
+  rotate: false
+  xy: 1, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+BirdCage-22
+  rotate: false
+  xy: 403, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+
+BirdEscape11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BirdCage
+  rotate: false
+  xy: 1, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1
+BirdCage15
+  rotate: false
+  xy: 403, 1
+  size: 400, 878
+  orig: 400, 878
+  offset: 0, 0
+  index: -1

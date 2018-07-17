@@ -1,0 +1,75 @@
+BrimStone.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clip_image001
+  rotate: false
+  xy: 1, 1
+  size: 507, 427
+  orig: 507, 427
+  offset: 0, 0
+  index: -1
+Untitled 9 - Copy
+  rotate: false
+  xy: 1, 1
+  size: 507, 427
+  orig: 507, 427
+  offset: 0, 0
+  index: -1
+Untitled-1
+  rotate: false
+  xy: 510, 1
+  size: 507, 421
+  orig: 507, 421
+  offset: 0, 0
+  index: -1
+Untitled-2
+  rotate: false
+  xy: 510, 424
+  size: 505, 421
+  orig: 505, 421
+  offset: 0, 0
+  index: -1
+Untitled-3
+  rotate: false
+  xy: 1, 430
+  size: 503, 419
+  orig: 503, 419
+  offset: 0, 0
+  index: -1
+Untitled-4
+  rotate: false
+  xy: 506, 847
+  size: 503, 419
+  orig: 503, 419
+  offset: 0, 0
+  index: -1
+Untitled-5 - Copy
+  rotate: false
+  xy: 506, 847
+  size: 503, 419
+  orig: 503, 419
+  offset: 0, 0
+  index: -1
+Untitled-6 - Copy
+  rotate: false
+  xy: 1, 430
+  size: 503, 419
+  orig: 503, 419
+  offset: 0, 0
+  index: -1
+Untitled-7 - Copy
+  rotate: false
+  xy: 510, 424
+  size: 505, 421
+  orig: 505, 421
+  offset: 0, 0
+  index: -1
+Untitled-8 - Copy
+  rotate: false
+  xy: 510, 1
+  size: 507, 421
+  orig: 507, 421
+  offset: 0, 0
+  index: -1

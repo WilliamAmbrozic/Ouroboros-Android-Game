@@ -1,0 +1,324 @@
+
+DeathScreenAnimation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-1
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-10
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-11
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-12
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-13
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-14
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-15
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-16
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-17
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-18
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-19
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-2
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-20
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation14.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-21
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation15.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-22
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation16.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-23
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation17.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-24
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation18.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-25
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation19.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-26
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation20.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-27
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation21.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-3
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation22.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-4
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation23.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-5
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation24.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-6
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation25.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-7
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation26.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-8
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1
+
+DeathScreenAnimation27.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+num-9
+  rotate: false
+  xy: 1, 1
+  size: 552, 955
+  orig: 552, 955
+  offset: 0, 0
+  index: -1

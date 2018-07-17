@@ -1,0 +1,38 @@
+
+CageFalling.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BirdCage-01
+  rotate: false
+  xy: 1, 1
+  size: 400, 834
+  orig: 400, 834
+  offset: 0, 0
+  index: -1
+BirdCage-02
+  rotate: false
+  xy: 403, 1
+  size: 400, 834
+  orig: 400, 834
+  offset: 0, 0
+  index: -1
+
+CageFalling2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BirdCage-03
+  rotate: false
+  xy: 1, 1
+  size: 400, 834
+  orig: 400, 834
+  offset: 0, 0
+  index: -1
+BirdCage-04
+  rotate: false
+  xy: 403, 1
+  size: 400, 834
+  orig: 400, 834
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,285 @@
+
+OuroIntro.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+
+OuroIntro2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+11
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+
+OuroIntro3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+13
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+
+OuroIntro4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+15
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+
+OuroIntro5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+17
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+
+OuroIntro6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+19
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+
+OuroIntro7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+20
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+
+OuroIntro8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+22
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+
+OuroIntro9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+24
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+
+OuroIntro10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+26
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+
+OuroIntro11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+28
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+29
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+
+OuroIntro12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+3
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+
+OuroIntro13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+4
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+
+OuroIntro14.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+6
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+
+OuroIntro15.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+8
+  rotate: false
+  xy: 1, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 453, 1
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
