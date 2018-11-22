@@ -4,15 +4,17 @@ This is a simple android game I developed when I was 16 in 2017. I used Android 
 ## App Presentation
 <p align="center"> ↓↓↓ view the exact slides handed in with the assignment ↓↓↓ </p>
 
-[![OuroPoint](https://imgur.com/download/2ewO6VA)](https://github.com/WilliamAmbrozic/Ouroboros-Android-Game/blob/master/Screenshots/Ouroboros.pptx?raw=true)
+[![OuroPoint](https://imgur.com/download/k9r8TZr)](https://github.com/WilliamAmbrozic/Ouroboros-Android-Game/blob/master/Screenshots/Ouroboros.pptx?raw=true)
 
-## Screenshot
-<p align="center"><img src="https://github.com/WilliamAmbrozic/Ouroboros-Android-Game/blob/master/Screenshots/twgg.png" width="392"></p>
+## Music
+<p align="center"> ↓↓↓ listen to the music made for this project ↓↓↓ </p>
+
+[![OuroMusic](https://imgur.com/download/ALPBghu)](https://github.com/WilliamAmbrozic/Ouroboros-Android-Game/blob/master/Screenshots/Ouroboros.pptx?raw=true)
 
 ## Download the app
 <p align="center">↓↓↓ Download or view the game on the Google Play Store by clicking on the image ↓↓↓</p>
 
-[![Ouro](https://i.imgur.com/CIchpsu.png)](https://play.google.com/store/apps/details?id=com.game.willouroboros&hl=en)
+[![Ouro](https://i.imgur.com/CIchpsu.png)](https://www.youtube.com/watch?v=EMU1n3Dfgg0)
 
 ## Find Me
 
