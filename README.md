@@ -9,12 +9,12 @@ This is a simple android game I developed when I was 16 in 2017. I used Android 
 ## Music
 <p align="center"> ↓↓↓ listen to the music made for this project ↓↓↓ </p>
 
-[![OuroMusic](https://imgur.com/download/ALPBghu)](https://github.com/WilliamAmbrozic/Ouroboros-Android-Game/blob/master/Screenshots/Ouroboros.pptx?raw=true)
+[![OuroMusic](https://imgur.com/download/ALPBghu)](https://www.youtube.com/watch?v=EMU1n3Dfgg0)
 
 ## Download the app
 <p align="center">↓↓↓ Download or view the game on the Google Play Store by clicking on the image ↓↓↓</p>
 
-[![Ouro](https://i.imgur.com/CIchpsu.png)](https://www.youtube.com/watch?v=EMU1n3Dfgg0)
+[![Ouro](https://i.imgur.com/CIchpsu.png)](https://play.google.com/store/apps/details?id=com.game.willouroboros&hl=en)
 
 ## Find Me
 
