@@ -5,7 +5,7 @@ This is a simple android game I developed when I was 16 in 2017. I used Android 
 - [App Presentation](https://github.com/WilliamAmbrozic/Ouroboros-Android-Game#app-presentation)
 - [Music](https://github.com/WilliamAmbrozic/Ouroboros-Android-Game#music)
 - [Download the App](https://github.com/WilliamAmbrozic/Ouroboros-Android-Game#download-the-app)
-- [Find Me](https://github.com/WilliamAmbrozic/Ouroboros-Android-Game#find-me)
+- [Find Me](https://github.com/WilliamAmbrozic/Ouroboros-Android-Game#find-me-)
 
 ## App Presentation
 
