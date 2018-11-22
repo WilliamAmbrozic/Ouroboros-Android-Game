@@ -16,7 +16,7 @@ This is a simple android game I developed when I was 16 in 2017. I used Android 
 
 [![Ouro](https://i.imgur.com/CIchpsu.png)](https://play.google.com/store/apps/details?id=com.game.willouroboros&hl=en)
 
-## Find Me <img src="https://imgur.com/download/HT8IjZ5" width="42"> 
+## Find Me <img src="https://imgur.com/download/HT8IjZ5" width="25"> 
 
 [[Back to contents]](https://github.com/WilliamAmbrozic/Multiplication-Visualizer#contents)
 
