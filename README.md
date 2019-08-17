@@ -35,6 +35,7 @@ This is a simple android game I developed when I was 16 in 2017. I used Android 
 
 [[Back to contents]](https://github.com/WilliamAmbrozic/Ouroboros-Android-Game#contents)
 
+- [Hire Me or Learn More](https://williamambrozic.info)
 - [Youtube](https://www.youtube.com/channel/UCL-VushY6SO0ofPTZ8iB3ag)
 - [Instagram](https://www.instagram.com/williamambrozic)
 - [Twitter](https://twitter.com/WilliamAmbrozic)
